@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atron100
-- 👀 I’m interested in Python, VC#, LabVIEW and etc...
+- 👀 I’m interested in Python, C#, LabVIEW and etc...
 - 🌱 I’m currently learning algotrading and how implement this with other strategies
 - i have also online store https://topenginedeals.com
 - for any question just message me.
